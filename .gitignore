@@ -141,3 +141,8 @@ Icon
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+
+# Local recordings and history (not pushed to GitHub)
+recordings/
+.history/
+
