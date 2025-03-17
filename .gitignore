@@ -146,3 +146,7 @@ Icon
 recordings/
 .history/
 
+# Firmware binaries and vendor libraries (kept local only)
+firmware/
+libs/
+
